@@ -630,6 +630,10 @@ pre code {
   padding-left: 15px;
 }
 
+.myStuff {
+  display: inline-block;
+}
+
 .col {
   -webkit-flex-basis: 0;
       -ms-flex-preferred-size: 0;
