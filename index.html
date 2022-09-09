@@ -256,7 +256,7 @@
                 <div class="col-lg-8">
                     <div class="contact-form-card">
                         <h4 class="contact-title">Send a message</h4>
-                        <form action="mailto:vallasac@gmail.com" method="get">
+                        <form action="mailto: vallasac@gmail.com" method="post" enctype="multipart/form-data">
                             <div class="form-group">
                                 <input  class="form-control" id="cname" type="text" placeholder="Name *" required>
                             </div>
@@ -266,14 +266,9 @@
                             <div class="form-group">
                                 <textarea class="form-control" id="cmessage" rows="7" required></textarea>
                             </div>
-                            <script function sendMail() {
-                                var body = document.getElementById("cmessage").value;
-                                var subject = document.getElementById("cname").value;
 
-                                window.location.replace(`mailto:vallasac@gmail.com?body=${body}&subject=${subject} wants to contact you`);
-                            }   />
                             <div class="form-group ">
-                                <button onclick="sendMail()" class="form-control btn btn-primary" >Send Message</button>
+                                <button class="form-control btn btn-primary" >Send Message</button>
                             </div>
                         </form>
                     </div>
