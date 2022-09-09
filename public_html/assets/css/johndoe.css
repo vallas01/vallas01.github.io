@@ -634,6 +634,16 @@ pre code {
   display: inline-block;
 }
 
+.myLinks {
+  display: inline-block;
+  font-size: large;
+  color:black;
+}
+
+.myLinks:hover {
+  font-size: larger;
+}
+
 .col {
   -webkit-flex-basis: 0;
       -ms-flex-preferred-size: 0;
