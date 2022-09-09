@@ -638,10 +638,13 @@ pre code {
   display: inline-block;
   font-size: large;
   color:black;
+  margin-right: 10%;
 }
 
 .myLinks:hover {
-  font-size: larger;
+  font-size: 1.1rem;
+  color:rgba(0, 0, 0, 0.8)
+
 }
 
 .col {
