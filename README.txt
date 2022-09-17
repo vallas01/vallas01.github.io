@@ -1,4 +1,6 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+
+Modified extensively by Andy Vallas
 
 Product Page: https://wwww.devcrud.com/
 
@@ -15,4 +17,4 @@ Credits:
 		Bootstrap: 			(https://www.getbootstrap.com)
 		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
 		Isotope: 			(https://isotope.metafizzy.co/) 
-		Google Maps:		(https://maps.google.com)
+		
